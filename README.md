@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ![image](img/license_example.jpg)  
 
-If you are interested in our *Dataset*, please contact us：ouzw5@mail2.sysu.edu.cn  
+If you are interested in our **Dataset**, please contact us：ouzw5@mail2.sysu.edu.cn  
 
 # 2.How to run
 ```python
@@ -34,3 +34,5 @@ Speed: [Speed](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Trac
 License: [License](https://github.com/MuhammadMoinFaisal/Automatic_Number_Plate_Detection_Recognition_YOLOv8)  
 License: [License](https://github.com/ablanco1950/LicensePlate_Yolov8_Filters_PaddleOCR)  
 License: [License](https://github.com/we0091234/Chinese_license_plate_detection_recognition)  
+
+If you have any questions, please contact us！
