@@ -18,5 +18,6 @@ pip install -r requirements.txt
 ```
 # 1.Train model and supplementary experiments  
 ![image](img/confusion_matrix.jpg)  
+
 ![image](img/license_example.jpg)  
-![iamge](img/compare.jpg)
+
