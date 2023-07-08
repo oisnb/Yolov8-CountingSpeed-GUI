@@ -1,7 +1,7 @@
 # Yolov8-CountingSpeed-GUI
 Deeplearning homework in 2023.7.8
 # 0.Overview of YOLOv8 and our GUI
-      ![image](img/GUI.jpg)  
+![image](img/GUI.jpg)  
 Create a environment:  
 In our experiment we use, Python 3.9 with PyTorch 1.12.0 + CUDA 11.6.  
 ```python  
@@ -17,3 +17,5 @@ pip install torch==1.12.0+cu116 torchvision==0.13.0+cu116 torchaudio==0.12.0 --e
 pip install -r requirements.txt  
 ```
 # 1.Train model and supplementary experiments  
+![image](img/confusion matrix.jpg)  
+![image](img/license example.jpg)  
