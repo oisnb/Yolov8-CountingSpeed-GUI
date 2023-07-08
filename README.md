@@ -35,4 +35,3 @@ License: [License](https://github.com/MuhammadMoinFaisal/Automatic_Number_Plate_
 License: [License](https://github.com/ablanco1950/LicensePlate_Yolov8_Filters_PaddleOCR)  
 License: [License](https://github.com/we0091234/Chinese_license_plate_detection_recognition)  
 
-If you have any questions, please contact us！
