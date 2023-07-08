@@ -27,6 +27,7 @@ If you are interested in our **Dataset**, please contact us：ouzw5@mail2.sysu.e
 ```python
 python main.py
 ```
+If you want to detect license image, you need to choose license.pt.  
 
 # 3.Reference  
 GUI: [GUI](https://github.com/Jai-wei/YOLOv8-PySide6-GUI)  
