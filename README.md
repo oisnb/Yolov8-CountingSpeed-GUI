@@ -29,8 +29,8 @@ python main.py
 ```
 
 # 3.Reference  
-[GUI](https://github.com/Jai-wei/YOLOv8-PySide6-GUI)
-[Speed](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking)
-[License](https://github.com/MuhammadMoinFaisal/Automatic_Number_Plate_Detection_Recognition_YOLOv8)
-[License](https://github.com/ablanco1950/LicensePlate_Yolov8_Filters_PaddleOCR)
-[License](https://github.com/we0091234/Chinese_license_plate_detection_recognition)
+GUI: [GUI](https://github.com/Jai-wei/YOLOv8-PySide6-GUI)  
+Speed: [Speed](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking)  
+License: [License](https://github.com/MuhammadMoinFaisal/Automatic_Number_Plate_Detection_Recognition_YOLOv8)  
+License: [License](https://github.com/ablanco1950/LicensePlate_Yolov8_Filters_PaddleOCR)  
+License: [License](https://github.com/we0091234/Chinese_license_plate_detection_recognition)  
