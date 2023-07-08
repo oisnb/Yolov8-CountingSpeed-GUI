@@ -1,4 +1,5 @@
 # Yolov8-CountingSpeed-GUI
 Deeplearning homework in 2023.7.8
 # 0.Overview of YOLOv8 and our GUI
-![image](test-img.jpg)
+![image](network.jpg)
+![image](GUI.jpg)
